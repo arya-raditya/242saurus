@@ -1,0 +1,41 @@
+arya-raditya:
+  name: Arya Raditya Kusuma
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/arya-raditya
+  image_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Meme_Man_on_transparent_background.webp/316px-Meme_Man_on_transparent_background.webp.png
+  page: true
+  socials:
+    github: arya-raditya
+
+Andrew4Coding:
+  name: Andrew Devito Aryo
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/Andrew4Coding
+  image_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Meme_Man_on_transparent_background.webp/316px-Meme_Man_on_transparent_background.webp.png
+  page: true
+  socials:
+    github: Andrew4Coding
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
